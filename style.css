@@ -43,10 +43,4 @@ h2{
 .navbar-brand{
 	font-size: 25px;
 	font-weight: bold;
-	color: white;
-}
-
-.menu-item: hover {
-	background-color: #ff8a5b ;
-	color: #25ced1 ;
 }
